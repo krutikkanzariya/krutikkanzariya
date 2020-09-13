@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+  I am krutik kanjariya. I am from Bhavnagar,Gujarat. Currently I am pursuing my B.Tech computer engineering degree from NIT,surat.My main interest lies in **Machine Learning** ans **deep Learning**. Also, I have some basic knowledge of Front-end development using React.js and bootstrap. I am always curious to learn something new.
 <!--
 **krutikkanzariya/krutikkanzariya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
